@@ -19,8 +19,8 @@
 
 <h2>:file_folder: Access to the project</h2>
 
-<p>You can access the project files by clicking <a href="https://github.com/PHDevss/github-react-project/">here</a>.</p>
-<p>And you can preview the project here <a href="https://phdevss.github.io/github-react-project/" target="_blank">here</a>.</p> 
+<p>You can access the project files by clicking <a href="https://github.com/PHDevss/CursoEmVideoProjeto/">here</a>.</p>
+<p>And you can preview the project here <a href="https://phdevss.github.io/CursoEmVideoProjeto/" target="_blank">here</a>.</p> 
 
 <h4 align="center"> 
   🚧 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=1&style=for-the-badge" /> 🚧
